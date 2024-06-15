@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michal\\Desktop\\JWT\\JWT\\JWT\\JWT.csproj": {}
+    "C:\\Users\\Michal\\Desktop\\APBD11\\JWT\\JWT\\JWT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michal\\Desktop\\JWT\\JWT\\JWT\\JWT.csproj": {
+    "C:\\Users\\Michal\\Desktop\\APBD11\\JWT\\JWT\\JWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michal\\Desktop\\JWT\\JWT\\JWT\\JWT.csproj",
+        "projectUniqueName": "C:\\Users\\Michal\\Desktop\\APBD11\\JWT\\JWT\\JWT.csproj",
         "projectName": "JWT",
-        "projectPath": "C:\\Users\\Michal\\Desktop\\JWT\\JWT\\JWT\\JWT.csproj",
+        "projectPath": "C:\\Users\\Michal\\Desktop\\APBD11\\JWT\\JWT\\JWT.csproj",
         "packagesPath": "C:\\Users\\Michal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michal\\Desktop\\JWT\\JWT\\JWT\\obj\\",
+        "outputPath": "C:\\Users\\Michal\\Desktop\\APBD11\\JWT\\JWT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Michal\\AppData\\Roaming\\NuGet\\NuGet.Config"
